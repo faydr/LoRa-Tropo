@@ -6,7 +6,7 @@ import time
 
 UDP_IP = "10.0.0.2"
 UDP_PORT = 5005
-MESSAGE = "KG5VBY "
+MESSAGE = "KG5VBY \a"
 
 print "UDP target IP:", UDP_IP
 print "UDP target port:", UDP_PORT
